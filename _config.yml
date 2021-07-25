@@ -11,8 +11,8 @@ permalink:        pretty
 title:            Ambareesh Ravi
 tagline:          ''
 description:      'Machine Learning Engineer and Researcher'
-url:              https://ambareeshravi.github.io
-baseurl:          /
+url:              "https://ambareeshravi.github.io"
+baseurl:          ""
 
 paginate:         5
 
