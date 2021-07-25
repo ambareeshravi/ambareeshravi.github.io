@@ -15,12 +15,9 @@ title:            Ambareesh Ravi
 tagline:          ''
 description:      'Machine Learning Engineer and Researcher'
 url:              "https://ambareeshravi.github.io"
-baseurl:          "/"
+baseurl:          ""
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/ambareeshravi/ambareeshravi.github.io
