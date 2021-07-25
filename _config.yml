@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         GFM
+# markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Ambareesh Ravi
+tagline:          ''
+description:      'Machine Learning Engineer and Researcher'
+url:              https://ambareeshravi.github.io
+baseurl:          /
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ambareeshravi/ambareeshravi.github.io
