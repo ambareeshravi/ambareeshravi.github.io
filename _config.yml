@@ -1,7 +1,10 @@
 # Dependencies
 markdown:         GFM
+highlighter:      rouge
+
 # markdown:         kramdown
-highlighter:      pygments
+# highlighter:      pygments
+
 
 # Permalinks
 permalink:        pretty
