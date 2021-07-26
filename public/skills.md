@@ -7,6 +7,10 @@ order: 3
 -----
 
 #### Programming
+
+---
+Python: ⚫⚫⚫⚫⚫
+---
 |
 ---|---
 Python | ⚫⚫⚫⚫⚫
