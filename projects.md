@@ -5,6 +5,11 @@ order: 5
 ---
 (Links to the corresponding github repos will be added soon!)
 
+### Spam detection in text
+<p class="message">
+A tool to detect if a piece of text/ e-mail is spam
+</p>
+
 ### Extracting knowledge graph from textual data
 <p class="message">
 A tool to automatically extract knowledge based on the entities and the relationshipes between them from natural language data
