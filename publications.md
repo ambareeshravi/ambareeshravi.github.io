@@ -6,10 +6,15 @@ order: 4
 
 These are some of my publications in the field of Artificial Intelligence/ Machine Learning and Game theory
 
+### A class of augmented convolutional architectures for efficient visual anomaly detection
+
+_Masters Thesis, University of Waterloo, 2021._
+[Abstract](https://uwspace.uwaterloo.ca/handle/10012/17163)
+
 ### Exploring Convolutional Recurrent Architectures for Anomaly Detection in Videos: A comparative study
 
 Ambareesh Ravi, Fakhri Karray\
-_Submitted for publication in Discover Artificial Intellegence (DAI), Springer, 2021._
+_Under review in Discover Artificial Intellegence (DAI), Springer, 2021._
 
 [Abstract](/public/papers/crnn/)
 
@@ -30,7 +35,7 @@ _Accepted in IEEE International Conference on Autonomous Systems (ICAS), August 
 ### AutoEncoder regularization using Support Vector Data Description for Anomaly Detection
 
 Ambareesh Ravi, Fakhri Karray\
-_Submitted to in IEEE International Conference on SYSTEMS, MAN, AND CYBERNETICS (SMC), October 2021_
+_Under review in IEEE International Conference on SYSTEMS, MAN, AND CYBERNETICS (SMC), October 2021_
 
 [Abstract](/public/papers/svdd/)
 
