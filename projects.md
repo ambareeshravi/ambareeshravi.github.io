@@ -3,6 +3,13 @@ layout: page
 title: Projects
 order: 5
 ---
+(Links to the corresponding github repos will be added soon!)
+
+### Extracting knowledge graph from textual data
+<p class="message">
+A tool to automatically extract knowledge based on the entities and the relationshipes between them from natural language data
+</p>
+
 
 ### AutoDL framework in PyTorch
 <p class="message">
