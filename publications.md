@@ -7,8 +7,9 @@ order: 4
 These are some of my publications in the field of Artificial Intelligence/ Machine Learning and Game theory
 
 ### A class of augmented convolutional architectures for efficient visual anomaly detection
-
+Ambareesh Ravi\
 _Masters Thesis, University of Waterloo, 2021._
+
 [Abstract](https://uwspace.uwaterloo.ca/handle/10012/17163)
 
 ### Exploring Convolutional Recurrent Architectures for Anomaly Detection in Videos: A comparative study
