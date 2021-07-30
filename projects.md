@@ -15,6 +15,11 @@ A tool to detect if a piece of text/ e-mail is spam
 A tool to automatically extract knowledge based on the entities and the relationshipes between them from natural language data
 </p>
 
+### Rooftop segmentation in aerial view images
+<p class="message">
+Segmenting the roofs of buildings in aerial view images for planning the installation of solar panels, rain water harvesting etc 
+</p>
+
 
 ### AutoDL framework in PyTorch
 <p class="message">
