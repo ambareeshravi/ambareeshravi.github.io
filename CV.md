@@ -15,7 +15,7 @@ Machine learning, Deep Learning, Computer Vision, Natural Language Processing, D
 
 #### Machine Learning Engineer (Part time)
 ATTLAS AI Inc., Waterloo, ON, Canada\
-Apr 2021 - Present
+Apr 2021 - July 2017
 
 _Involved in design and development of Machine Learning pipelines and applications for healthcare systems._
 
@@ -65,7 +65,7 @@ May 2016 - Jun 2016
 --------
 #### Master of Applied Science (MASc.) - Pattern Analysis and Machine Intelligence
 University of Waterloo, Waterloo, ON, Canada\
-Sep 2019 - Present
+Sep 2019 - July 2017
 
 * _Graduate Research Student at the department of ECE_
 * _Research work focussed on developing efficient deep learning architectures for the task of visual anomaly detection for autonomous entities with applications in the field of security, surveillance, automation, medical diagnosis and prognosis etc_.
