@@ -15,7 +15,7 @@ _Masters Thesis, University of Waterloo, 2021._
 ### Exploring Convolutional Recurrent Architectures for Anomaly Detection in Videos: A comparative study
 
 Ambareesh Ravi, Fakhri Karray\
-_Under review in Discover Artificial Intellegence (DAI), Springer, 2021._
+_Accepted to Discover Artificial Intellegence (DAI), Springer, 2021._
 
 [Abstract](/public/papers/crnn/)
 
@@ -36,7 +36,7 @@ _Accepted in IEEE International Conference on Autonomous Systems (ICAS), August 
 ### AutoEncoder regularization using Support Vector Data Description for Anomaly Detection
 
 Ambareesh Ravi, Fakhri Karray\
-_Under review in IEEE International Conference on SYSTEMS, MAN, AND CYBERNETICS (SMC), October 2021_
+_Accepted in IEEE International Conference on SYSTEMS, MAN, AND CYBERNETICS (SMC), October 2021_
 
 [Abstract](/public/papers/svdd/)
 
