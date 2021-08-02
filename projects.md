@@ -19,7 +19,7 @@ A tool to detect if a piece of text/ e-mail is spam
 
 ### Extracting knowledge graph from textual data
 <p class="message">
-A tool to automatically extract knowledge based on the entities and the relationshipes between them from natural language data
+A tool to automatically extract knowledge based on the entities and the relationships between them from natural language data
 </p>
 [Link to GitHub Repo](https://github.com/ambareeshravi/Knowledge_Graphs-Text/)
 
