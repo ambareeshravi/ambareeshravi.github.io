@@ -9,28 +9,28 @@ order: 5
 <p class="message">
 An API to classify traffic sign images using Python, Tensorflow/Keras, Flask
 
-(GitHub repo)[https://github.com/ambareeshravi/TrafficSignClassifier_API]
+[GitHub repo](https://github.com/ambareeshravi/TrafficSignClassifier_API)
 </p>
 
 ### Spam detection in text
 <p class="message">
 A tool to detect if a piece of text/ e-mail is spam
   
-(GitHub repo)[https://github.com/ambareeshravi/Spam_Detection]
+[GitHub repo](https://github.com/ambareeshravi/Spam_Detection)
 </p>
 
 ### Extracting knowledge graph from textual data
 <p class="message">
 A tool to automatically extract knowledge based on the entities and the relationshipes between them from natural language data
   
-(GitHub repo)[https://github.com/ambareeshravi/Knowledge_Graphs-Text]
+[GitHub repo](https://github.com/ambareeshravi/Knowledge_Graphs-Text)
 </p>
 
 ### Rooftop segmentation in aerial view images
 <p class="message">
 Segmenting the roofs of buildings in aerial view images for planning the installation of solar panels, rain water harvesting etc 
   
-(GitHub repo)[https://github.com/ambareeshravi/Rooftop_Segmentation_PixelClassifier]
+[GitHub repo](https://github.com/ambareeshravi/Rooftop_Segmentation_PixelClassifier)
 </p>
 
 
@@ -38,14 +38,14 @@ Segmenting the roofs of buildings in aerial view images for planning the install
 <p class="message">
 Created a framework to automatically train, tune and evaluate different deep learning models in parallel using PyTorch-Python for the experiments in my thesis.
   
-(GitHub repo)[https://github.com/ambareeshravi/Thesis_VideoAnomalyDetection]
+[GitHub repo](https://github.com/ambareeshravi/Thesis_VideoAnomalyDetection)
 </p>
 
 ### Visual anomaly detection
 <p class="message">
 Novel deep learning methods, frameworks and architectures for efficient anomaly detection in images and videos.
   
-(GitHub repo)[https://github.com/ambareeshravi/Thesis_VideoAnomalyDetection]
+[GitHub repo](https://github.com/ambareeshravi/Thesis_VideoAnomalyDetection)
 </p>
 
 ### Video Highlights generation
