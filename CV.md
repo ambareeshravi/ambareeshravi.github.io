@@ -12,6 +12,9 @@ Machine learning, Deep Learning, Computer Vision, Natural Language Processing, D
 
 ## Experience
 --------
+#### Computer Vision Developer 
+Miovision Technologies, Kitchener, ON, Canada\
+Sep 2021 - Present
 
 #### Machine Learning Engineer (Part time)
 ATTLAS AI Inc., Waterloo, ON, Canada\
