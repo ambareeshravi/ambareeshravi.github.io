@@ -6,31 +6,37 @@ order: 4
 
 These are some of my publications in the field of Artificial Intelligence/ Machine Learning and Game theory
 
+### A class of augmented convolutional architectures for efficient visual anomaly detection
+Ambareesh Ravi\
+_Masters Thesis, University of Waterloo, 2021._
+
+[Abstract](https://uwspace.uwaterloo.ca/handle/10012/17163)
+
 ### Exploring Convolutional Recurrent Architectures for Anomaly Detection in Videos: A comparative study
 
 Ambareesh Ravi, Fakhri Karray\
-_Submitted for publication in Discover Artificial Intellegence (DAI), Springer, 2021._
+_Accepted to Discover Artificial Intellegence (DAI), Springer, 2021._
 
-[Abstract](/public/papers/crnn/)
+[Abstract](/public/papers/crnn/) | [Paper](https://link.springer.com/article/10.1007/s44163-021-00004-2)
 
 ### General Frameworks for Anomaly Detection Explainability: A Comparative Study
 
 Ambareesh Ravi, Xiaozhuo Yu, Iara Santelices, Fakhri Karray, Baris Fidan\
 _Accepted in IEEE International Conference on Autonomous Systems (ICAS), August 2021_
 
-[Abstract](/public/papers/xai/)
+[Abstract](/public/papers/xai/) | [Paper](https://ieeexplore.ieee.org/document/9551129)
 
 ### Attentive AutoEncoders for Improving Visual Anomaly Detection
 
 Ambareesh Ravi, Fakhri Karray\
 _Accepted in IEEE International Conference on Autonomous Systems (ICAS), August 2021_
 
-[Abstract](/public/papers/attention/)
+[Abstract](/public/papers/attention/) | [Paper](https://ieeexplore.ieee.org/abstract/document/9551183)
 
 ### AutoEncoder regularization using Support Vector Data Description for Anomaly Detection
 
 Ambareesh Ravi, Fakhri Karray\
-_Submitted to in IEEE International Conference on SYSTEMS, MAN, AND CYBERNETICS (SMC), October 2021_
+_Accepted in IEEE International Conference on SYSTEMS, MAN, AND CYBERNETICS (SMC), October 2021_
 
 [Abstract](/public/papers/svdd/)
 

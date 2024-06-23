@@ -1,8 +1,9 @@
 # Dependencies
-markdown:         GFM
-highlighter:      rouge
+# markdown:         GFM
+# highlighter:      rouge
 
-# markdown:         kramdown
+markdown:         kramdown
+highlighter:      rouge
 # highlighter:      pygments
 
 

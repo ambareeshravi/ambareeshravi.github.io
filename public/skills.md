@@ -14,11 +14,12 @@ C | ⚫⚫⚫⚫🟡
 Scala | ⚫⚫⚫🟡🟡
 R | ⚫⚫⚫🟡🟡
 HTML | ⚫⚫⚫⚫🟡
-MATLAB | ⚫⚫⚫🟡🟡
+MATLAB | ⚫⚫⚫🟡🟡🟡
+TypeScript/ JavaScript | ⚫🟡🟡🟡🟡🟡
 
 -----
 
-#### Machine Learning Tools/Libraries
+#### Classical Machine Learning and related Tools/Libraries
 
 Scikit-Learn | ⚫⚫⚫⚫⚫
 Pandas | ⚫⚫⚫⚫⚫
@@ -41,13 +42,14 @@ TensorFlow | ⚫⚫⚫⚫⚫
 Keras | ⚫⚫⚫⚫⚫
 ONNX | ⚫⚫⚫⚫🟡
 TF-Lite | ⚫⚫⚫🟡🟡
+TensorRT | ⚫⚫⚫🟡🟡
 
 -----
 
 #### Deep Learning Modelling
 
 Regression, Classifacation, Recognition, Detection, Segmentation, Captioning, Time Series Forecasting, Predictive Analysis\
-CNN, RNN, LSTM, GRU, AutoEncoders, Seq2Seq, GANs, GNNs
+CNN, RNN, LSTM, GRU, AutoEncoders, Seq2Seq, GANs, GNNs, Transformers, Vision Transformers
 
 -----
 
@@ -85,7 +87,8 @@ LRP, LIME, SHAP, GradCAM, Counterfactuals, Adversarial attacks
 
 SQL | ⚫⚫⚫⚫🟡
 MySQL | ⚫⚫⚫⚫🟡
-MongoDB | ⚫⚫⚫⚫🟡
+MongoDB | ⚫⚫⚫⚫🟡🟡
+Postgres | ⚫⚫⚫🟡🟡
 DynamoDB | ⚫⚫⚫🟡🟡
 
 -----
@@ -100,8 +103,11 @@ Microsoft Azure | ⚫⚫⚫🟡🟡
 
 #### ML model hosting and serving
 
+MLOps | ⚫⚫⚫🟡🟡
+GitHub + CI/CD | ⚫⚫⚫🟡🟡
+GitLab + CI/CD | ⚫⚫⚫🟡🟡
 Docker | ⚫⚫⚫⚫🟡
-Spark/PySpark | ⚫⚫⚫⚫🟡
+Spark/PySpark | ⚫⚫⚫🟡🟡
 Kubernetes | ⚫⚫⚫🟡🟡
 TensorFlow Federated | ⚫⚫⚫🟡🟡
 TensorFlow TFX | ⚫⚫🟡🟡🟡
@@ -116,11 +122,11 @@ SDLC | ⚫⚫⚫⚫🟡
 MLDLC | ⚫⚫⚫⚫🟡
 Git | ⚫⚫⚫⚫⚫
 Bash/Shell script | ⚫⚫⚫⚫🟡
-SLURM | ⚫⚫⚫⚫🟡
-JIRA | ⚫⚫⚫⚫🟡
+SLURM | ⚫⚫⚫⚫
 Flask | ⚫⚫⚫🟡🟡
 Django | ⚫⚫⚫🟡🟡
-Agile/Scrum | ⚫⚫⚫⚫⚫
+Agile/Scrum | ⚫⚫⚫⚫⚫🟡
+JIRA | ⚫⚫⚫⚫🟡
 
 -----
 

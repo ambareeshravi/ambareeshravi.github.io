@@ -12,10 +12,13 @@ Machine learning, Deep Learning, Computer Vision, Natural Language Processing, D
 
 ## Experience
 --------
+#### Computer Vision Developer 
+Miovision Technologies, Kitchener, ON, Canada\
+Sep 2021 - _Present_
 
 #### Machine Learning Engineer (Part time)
 ATTLAS AI Inc., Waterloo, ON, Canada\
-Apr 2021 - Present
+Apr 2021 - July 2021
 
 _Involved in design and development of Machine Learning pipelines and applications for healthcare systems._
 
@@ -65,11 +68,11 @@ May 2016 - Jun 2016
 --------
 #### Master of Applied Science (MASc.) - Pattern Analysis and Machine Intelligence
 University of Waterloo, Waterloo, ON, Canada\
-Sep 2019 - Present
+Sep 2019 - July 2021
 
 * _Graduate Research Student at the department of ECE_
 * _Research work focussed on developing efficient deep learning architectures for the task of visual anomaly detection for autonomous entities with applications in the field of security, surveillance, automation, medical diagnosis and prognosis etc_.
-* _Thesis titled “A class of augmented convolutional architectures for efficient visual anomaly detection” under Dr. Fakhri Karray._
+* _Thesis titled [“A class of augmented convolutional architectures for efficient visual anomaly detection”](https://uwspace.uwaterloo.ca/handle/10012/17163) under Dr. Fakhri Karray._
 * _Cumulative GPA: 9/10_
 * _Graduate Research Studentship - scholarship to cover tuition fees and research._ (2019 - 2021)
 
