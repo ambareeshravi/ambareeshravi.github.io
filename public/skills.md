@@ -14,8 +14,10 @@ C | ⚫⚫⚫⚫🟡
 Scala | ⚫⚫⚫🟡🟡
 R | ⚫⚫⚫🟡🟡
 HTML | ⚫⚫⚫⚫🟡
-MATLAB | ⚫⚫⚫🟡🟡🟡
-TypeScript/ JavaScript | ⚫🟡🟡🟡🟡🟡
+MATLAB | ⚫⚫⚫🟡🟡
+Carbon | ⚫⚫🟡🟡🟡
+Go | ⚫⚫🟡🟡🟡
+TypeScript/ JavaScript | ⚫🟡🟡🟡🟡
 
 -----
 
@@ -40,9 +42,9 @@ Linear Regression, Logisitic Regression, SVM, Decision Trees, Naive Bayes, Rando
 PyTorch | ⚫⚫⚫⚫⚫
 TensorFlow | ⚫⚫⚫⚫⚫
 Keras | ⚫⚫⚫⚫⚫
-ONNX | ⚫⚫⚫⚫🟡
+ONNX | ⚫⚫⚫⚫⚫
+TensorRT | ⚫⚫⚫⚫🟡
 TF-Lite | ⚫⚫⚫🟡🟡
-TensorRT | ⚫⚫⚫🟡🟡
 
 -----
 
@@ -87,31 +89,33 @@ LRP, LIME, SHAP, GradCAM, Counterfactuals, Adversarial attacks
 
 SQL | ⚫⚫⚫⚫🟡
 MySQL | ⚫⚫⚫⚫🟡
-MongoDB | ⚫⚫⚫⚫🟡🟡
-Postgres | ⚫⚫⚫🟡🟡
+MongoDB | ⚫⚫⚫⚫🟡
+Postgres | ⚫⚫⚫⚫🟡
 DynamoDB | ⚫⚫⚫🟡🟡
 
 -----
 
 #### Cloud services
 
+Amazon Web Services (AWS) | ⚫⚫⚫⚫⚫
 Google Cloud Platform (GCP) | ⚫⚫⚫⚫🟡
-Amazon Web Services (AWS) | ⚫⚫⚫⚫🟡
 Microsoft Azure | ⚫⚫⚫🟡🟡
 
 -----
 
 #### ML model hosting and serving
 
-MLOps | ⚫⚫⚫🟡🟡
-GitHub + CI/CD | ⚫⚫⚫🟡🟡
-GitLab + CI/CD | ⚫⚫⚫🟡🟡
+MLOps | ⚫⚫⚫⚫🟡
+GitHub + CI/CD | ⚫⚫⚫⚫🟡
+GitLab + CI/CD | ⚫⚫⚫⚫🟡
 Docker | ⚫⚫⚫⚫🟡
+Argo | ⚫⚫⚫⚫🟡
+AWS SageMaker | ⚫⚫⚫⚫🟡
+MLFlow | ⚫⚫⚫⚫🟡
 Spark/PySpark | ⚫⚫⚫🟡🟡
 Kubernetes | ⚫⚫⚫🟡🟡
 TensorFlow Federated | ⚫⚫⚫🟡🟡
 TensorFlow TFX | ⚫⚫🟡🟡🟡
-MLFlow | ⚫⚫⚫🟡🟡
 AirFlow | ⚫⚫🟡🟡🟡
 
 -----
@@ -126,7 +130,7 @@ SLURM | ⚫⚫⚫⚫
 Flask | ⚫⚫⚫🟡🟡
 Django | ⚫⚫⚫🟡🟡
 Agile/Scrum | ⚫⚫⚫⚫⚫🟡
-JIRA | ⚫⚫⚫⚫🟡
+JIRA, Confluence | ⚫⚫⚫⚫🟡
 
 -----
 
