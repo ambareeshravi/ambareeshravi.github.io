@@ -129,7 +129,7 @@ Bash/Shell script | ⚫⚫⚫⚫🟡
 SLURM | ⚫⚫⚫⚫
 Flask | ⚫⚫⚫🟡🟡
 Django | ⚫⚫⚫🟡🟡
-Agile/Scrum | ⚫⚫⚫⚫⚫🟡
+Agile/Scrum | ⚫⚫⚫⚫🟡
 JIRA, Confluence | ⚫⚫⚫⚫🟡
 
 -----
