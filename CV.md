@@ -12,9 +12,13 @@ Machine learning, Deep Learning, Computer Vision, Natural Language Processing, D
 
 ## Experience
 --------
+#### Senior Computer Vision Developer 
+Miovision Technologies, Kitchener, ON, Canada\
+Apr 2024 - _Present_
+
 #### Computer Vision Developer 
 Miovision Technologies, Kitchener, ON, Canada\
-Sep 2021 - _Present_
+Sep 2021 - Apr 2024
 
 #### Machine Learning Engineer (Part time)
 ATTLAS AI Inc., Waterloo, ON, Canada\
