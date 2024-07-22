@@ -126,7 +126,7 @@ SDLC | ⚫⚫⚫⚫🟡
 MLDLC | ⚫⚫⚫⚫🟡
 Git | ⚫⚫⚫⚫⚫
 Bash/Shell script | ⚫⚫⚫⚫🟡
-SLURM | ⚫⚫⚫⚫
+SLURM | ⚫⚫⚫⚫🟡
 Flask | ⚫⚫⚫🟡🟡
 Django | ⚫⚫⚫🟡🟡
 Agile/Scrum | ⚫⚫⚫⚫🟡
