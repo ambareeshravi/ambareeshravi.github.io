@@ -11,10 +11,11 @@ order: 3
 Python | ⚫⚫⚫⚫⚫
 C++ | ⚫⚫⚫⚫🟡
 C | ⚫⚫⚫⚫🟡
-Scala | ⚫⚫⚫🟡🟡
+Rust | ⚫⚫⚫🟡🟡
 R | ⚫⚫⚫🟡🟡
 HTML | ⚫⚫⚫⚫🟡
 MATLAB | ⚫⚫⚫🟡🟡
+Scala | ⚫⚫🟡🟡🟡
 Carbon | ⚫⚫🟡🟡🟡
 Go | ⚫⚫🟡🟡🟡
 TypeScript/ JavaScript | ⚫🟡🟡🟡🟡
@@ -50,7 +51,7 @@ TF-Lite | ⚫⚫⚫🟡🟡
 
 #### Deep Learning Modelling
 
-Regression, Classifacation, Recognition, Detection, Segmentation, Captioning, Time Series Forecasting, Predictive Analysis\
+Regression, Classification, Recognition, Detection, Segmentation, Captioning, Time Series Forecasting, Predictive Analysis\
 CNN, RNN, LSTM, GRU, AutoEncoders, Seq2Seq, GANs, GNNs, Transformers, Vision Transformers
 
 -----
@@ -117,7 +118,8 @@ Kubernetes | ⚫⚫⚫🟡🟡
 TensorFlow Federated | ⚫⚫⚫🟡🟡
 TensorFlow TFX | ⚫⚫🟡🟡🟡
 AirFlow | ⚫⚫🟡🟡🟡
-
+Terraform | ⚫⚫⚫🟡🟡
+Bash/ Shell | ⚫⚫⚫🟡🟡
 -----
 
 #### Software Development
@@ -136,4 +138,4 @@ JIRA, Confluence | ⚫⚫⚫⚫🟡
 
 #### OS
 
-Linux, Windows, MacOS
+Linux, MacOS, Windows
