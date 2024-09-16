@@ -120,6 +120,7 @@ TensorFlow TFX | ⚫⚫🟡🟡🟡
 AirFlow | ⚫⚫🟡🟡🟡
 Terraform | ⚫⚫⚫🟡🟡
 Bash/ Shell | ⚫⚫⚫🟡🟡
+
 -----
 
 #### Software Development
