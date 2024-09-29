@@ -5,6 +5,12 @@ order: 5
 ---
 (Links to the corresponding github repos will be added soon!)
 
+### rusty_tools
+<p class="message">
+A rust crate/library with some simple yet useful tools
+</p>
+[Link to GitHub Repo](https://github.com/ambareeshravi/rusty_tools/)
+
 ### Traffic sign image classification API
 <p class="message">
 An API to classify traffic sign images using Python, Tensorflow/Keras, Flask
