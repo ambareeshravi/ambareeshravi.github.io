@@ -10,6 +10,7 @@ order: 5
 A rust crate/library with some simple yet useful tools
 </p>
 [Crate](https://crates.io/crates/rusty_tools)
+
 [Link to GitHub Repo](https://github.com/ambareeshravi/rusty_tools/)
 
 ### Traffic sign image classification API
