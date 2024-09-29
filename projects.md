@@ -7,8 +7,10 @@ order: 5
 
 ### rusty_tools
 <p class="message">
-A rust [crate/library](https://crates.io/crates/rusty_tools/) with some simple yet useful tools
+A rust crate/library with some simple yet useful tools
 </p>
+[Crate](https://crates.io/crates/rusty_tools/)
+
 [Link to GitHub Repo](https://github.com/ambareeshravi/rusty_tools/)
 
 ### Traffic sign image classification API
