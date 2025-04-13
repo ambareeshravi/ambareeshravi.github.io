@@ -14,39 +14,47 @@ Machine learning, Deep Learning, Computer Vision, Natural Language Processing, D
 --------
 #### Senior Computer Vision Developer 
 Miovision Technologies, Kitchener, ON, Canada\
-Apr 2024 - _Present_
+2024 - _Present_
 
 #### Computer Vision Developer 
 Miovision Technologies, Kitchener, ON, Canada\
-Sep 2021 - Apr 2024
+2021 - 2024
+
+* _Designing software tech plans and architecture_
+* _Developing ML and MLOps pipelines and maintaining infrastructure_
+* _Developing custom Computer Vision models for Object Detection, Scene Classification, Semantic Segmentation and Object Tracking that improved the product accuracy by 12\%_
+* _Deep learning model optimization for deployment to NVIDIA Jetson Edge hardware to make it 30\% efficient_
+* _Created the infrastructure for model training and evaluation workflows on cloud that reduced the model training time by 58\%_ 
+* _Created GitLab workflows_
+* _Came up with novel model architecture designs to support tasks for different product asks_
 
 #### Machine Learning Engineer (Part time)
 ATTLAS AI Inc., Waterloo, ON, Canada\
-Apr 2021 - July 2021
+2021 - 2021
 
 _Involved in design and development of Machine Learning pipelines and applications for healthcare systems._
 
 #### Graduate Teaching Assistant (Part time)
 University of Waterloo, Waterloo, ON, Canada\
-Jan 2021 - Apr 2021
+2021 - 2021
 
 _Was part of the teaching team for the undergraduate course **ECE457B - Fundamentals of Computational Intelligence** which deals with the foundations and basics of intelligent systems involving topics like machine learning, artificial intelligence, fuzzy logic etc._
 
 #### Machine Learning Engineer (Part time)
 Sapphire Digital Health Solutions Inc., Kitchener, ON, Canada\
-Feb 2020 - May 2020
+2020 - 2020
 
 _Helped building machine learning pipelines to automatically digitize and maintain Electronic Medical Records_
 
 #### Graduate Teaching Assistant (Part time)
 University of Waterloo, Waterloo, ON, Canada\
-Sep 2020 - Dec 2020
+2020 - 2020
 
 _Was part of the teaching team for **ECE150 - Fundamentals of Programming** that focused on the fundamentals and basics of object-oriented programming in C++._
 
 #### Senior Engineer - Artificial Intelligence and Machine Learning
 TATA Elxsi, Bangalore, KA, India\
-Oct 2017 - Jul 2019
+2017 - 2019
 
 * _Developed a video cognition platform that gathers insights and metadata from videos; Lead a team of 4._
 * _Worked on several client projects and PoCs like sports highlight generation, video captioning, language transcription and translation, action recognition and object recognition and core software development in Python_.
@@ -55,13 +63,13 @@ Oct 2017 - Jul 2019
 
 #### Research Assistant
 University of Bologna, Italy
-Jan 2017 - May 2017
+2017
 
 _Masters research and thesis in High Voltage Engineering on 'The testing of conductivity and electrical treeing process in Silicone dielectric gel at various compositions for High Voltage Power modules, high voltage cables, and other applications' under Dr. Andrea Cavallini at the dept. of EEIE 'Guglielmo Marconi'_.
 
 #### Engineer Intern
 Nappinnai Automotives Inc., Chennai, TN, India\
-May 2016 - Jun 2016
+2016
 
 * _Developed a battery management system using Arduino to monitor SoC, SoH and battery protection_.
 * _Involved in designing Li-Ion battery pack and a super-charger for Electric scooters_.
@@ -72,7 +80,7 @@ May 2016 - Jun 2016
 --------
 #### Master of Applied Science (MASc.) - Pattern Analysis and Machine Intelligence
 University of Waterloo, Waterloo, ON, Canada\
-Sep 2019 - July 2021
+2019 - 2021
 
 * _Graduate Research Student at the department of ECE_
 * _Research work focussed on developing efficient deep learning architectures for the task of visual anomaly detection for autonomous entities with applications in the field of security, surveillance, automation, medical diagnosis and prognosis etc_.
@@ -82,7 +90,7 @@ Sep 2019 - July 2021
 
 #### Master of Technology (M. Tech) - Power Systems
 SASTRA University, Thanjavur, TN, India\
-June 2012 - May 2017
+2012 - 2017
 
 * _Completed Integrated Masters (5 years) program specializing in Power Systems with bachelors in Electrical and Electronics Engineering._
 * _Masters reasearch and thesis at the University of Bologna, Italy during a Semester Abroad Program_
