@@ -53,7 +53,7 @@ Novel deep learning methods, frameworks and architectures for efficient anomaly 
 <p class="message">
 Enhanced AutoEncoder-based anomaly detection by introducing a kernel strengthening and structural similarity loss function, improving performance with zero compute overhead.
 </p>
-[Link to GitHub Repo][https://github.com/ambareeshravi/anomaly-kernel-strengthening-ssim/]
+[Link to GitHub Repo](https://github.com/ambareeshravi/anomaly-kernel-strengthening-ssim/)
 
 ### Video Highlights generation
 <p class="message">
