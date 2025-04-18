@@ -10,35 +10,35 @@ These are some of my publications in the field of Artificial Intelligence/ Machi
 Ambareesh Ravi\
 _Masters Thesis, University of Waterloo, 2021._
 
-[Abstract](https://uwspace.uwaterloo.ca/handle/10012/17163)
+[Abstract](https://uwspace.uwaterloo.ca/handle/10012/17163) | [Code](https://github.com/ambareeshravi/Thesis_VideoAnomalyDetection)
 
 ### Exploring Convolutional Recurrent Architectures for Anomaly Detection in Videos: A comparative study
 
 Ambareesh Ravi, Fakhri Karray\
 _Accepted to Discover Artificial Intellegence (DAI), Springer, 2021._
 
-[Abstract](/public/papers/crnn/) | [Paper](https://link.springer.com/article/10.1007/s44163-021-00004-2)
+[Abstract](/public/papers/crnn/) | [Paper](https://link.springer.com/article/10.1007/s44163-021-00004-2) | [Code](https://github.com/ambareeshravi/Thesis_VideoAnomalyDetection)
 
 ### General Frameworks for Anomaly Detection Explainability: A Comparative Study
 
 Ambareesh Ravi, Xiaozhuo Yu, Iara Santelices, Fakhri Karray, Baris Fidan\
 _Accepted in IEEE International Conference on Autonomous Systems (ICAS), August 2021_
 
-[Abstract](/public/papers/xai/) | [Paper](https://ieeexplore.ieee.org/document/9551129)
+[Abstract](/public/papers/xai/) | [Paper](https://ieeexplore.ieee.org/document/9551129) | [Code](https://github.com/ambareeshravi/anomaly-detection-autoencoders-explainability)
 
 ### Attentive AutoEncoders for Improving Visual Anomaly Detection
 
 Ambareesh Ravi, Fakhri Karray\
 _Accepted in IEEE International Conference on Autonomous Systems (ICAS), August 2021_
 
-[Abstract](/public/papers/attention/) | [Paper](https://ieeexplore.ieee.org/abstract/document/9551183)
+[Abstract](/public/papers/attention/) | [Paper](https://ieeexplore.ieee.org/abstract/document/9551183) | [Code](https://github.com/ambareeshravi/attentive-autoencoders-anomaly-detection)
 
 ### AutoEncoder regularization using Support Vector Data Description for Anomaly Detection
 
 Ambareesh Ravi, Fakhri Karray\
 _Accepted in IEEE International Conference on SYSTEMS, MAN, AND CYBERNETICS (SMC), October 2021_
 
-[Abstract](/public/papers/svdd/)
+[Abstract](/public/papers/svdd/) | [Paper]() | [Code](https://github.com/ambareeshravi/svdd-autoencoder-reg-anomaly-detection)
 
 ### Split-Merge CNNs - Improving classification performance of CNNs by reconfiguring layers
 
@@ -52,7 +52,7 @@ _Submitted for publication_
 Ambareesh Ravi, Fakhri Karray\
 _Submitted for publication_
 
-[Abstract](/public/papers/ks_ssim/)
+[Abstract](/public/papers/ks_ssim/) | [Code](https://github.com/ambareeshravi/anomaly-kernel-strengthening-ssim)
 
 ### A multimodal deep learning framework for scalable content based visual media retrieval
 
