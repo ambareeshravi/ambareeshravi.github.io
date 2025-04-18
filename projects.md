@@ -17,25 +17,25 @@ A rust crate/library with some simple yet useful tools
 <p class="message">
 An API to classify traffic sign images using Python, Tensorflow/Keras, Flask
 </p>
-[Link to GitHub Repo](https://github.com/ambareeshravi/TrafficSignClassifier_API/)
+[Link to GitHub Repo](https://github.com/ambareeshravi/traffic-sign-classifier-API/)
 
 ### Spam detection in text
 <p class="message">
 A tool to detect if a piece of text/ e-mail is spam
 </p>
-[Link to GitHub Repo](https://github.com/ambareeshravi/Spam_Detection/)
+[Link to GitHub Repo](https://github.com/ambareeshravi/text-spam-detection/)
 
 ### Extracting knowledge graph from textual data
 <p class="message">
 A tool to automatically extract knowledge based on the entities and the relationships between them from natural language data
 </p>
-[Link to GitHub Repo](https://github.com/ambareeshravi/Knowledge_Graphs-Text/)
+[Link to GitHub Repo](https://github.com/ambareeshravi/text-knowledge-graphs/)
 
 ### Rooftop segmentation in aerial view images
 <p class="message">
 Segmenting the roofs of buildings in aerial view images for planning the installation of solar panels, rain water harvesting etc 
 </p>
-[Link to GitHub Repo](https://github.com/ambareeshravi/Rooftop_Segmentation_PixelClassifier/)
+[Link to GitHub Repo](https://github.com/ambareeshravi/rooftop-segmentation/)
 
 ### AutoDL framework in PyTorch
 <p class="message">
@@ -49,9 +49,15 @@ Novel deep learning methods, frameworks and architectures for efficient anomaly 
 </p>
 [Link to GitHub Repo](https://github.com/ambareeshravi/Thesis_VideoAnomalyDetection/)
 
+### Improving anomaly detection using Kernel Strengthening and structural similarity (SSIM)
+<p class="message">
+Enhanced AutoEncoder-based anomaly detection by introducing a kernel strengthening and structural similarity loss function, improving performance with zero compute overhead.
+</p>
+[Link to GitHub Repo][https://github.com/ambareeshravi/anomaly-kernel-strengthening-ssim/]
+
 ### Video Highlights generation
 <p class="message">
-Used CNN features with LSTM for event level clustering and audio cues to pick out important parts of video.
+Used CNN features with LSTM for event-level clustering and audio cues to pick out important parts of video.
 </p>
 
 ### Video captioning
