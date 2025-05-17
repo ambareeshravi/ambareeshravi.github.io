@@ -5,6 +5,12 @@ order: 5
 ---
 (Links to the corresponding github repos will be added soon!)
 
+### intelli-docs
+<p class="message">
+Created an advanced Question-Answering system that leverages local LLMs through Ollamma, Retrieval Augmented Generation (RAG) and Model Context Protocol (MCP) to provide intelligent responses from multiple document sources.
+</p>
+[Link to GitHub Repo](https://github.com/ambareeshravi/intelli-docs)
+
 ### rusty_tools
 <p class="message">
 A rust crate/library with some simple yet useful tools
