@@ -16,6 +16,10 @@ Machine learning, Deep Learning, Computer Vision, Natural Language Processing, D
 Miovision Technologies, Kitchener, ON, Canada\
 2024 - _Present_
 
+* _Engineered a scalable auto-annotation pipeline using internal foundational models, reducing annotation costs by ∼30% and turnaround time by ∼50% for both frame and video annotations._
+* _Led the development of a cloud-native AutoML ecosystem on AWS with end-to-end MLOps support with distributed training, hyperparameter tuning, evaluation, deployment benchmarking, integrated with MLflow and Docker-based workflows._
+* _Drove team-level engineering excellence through technical planning (ADRs, roadmaps), mentorship of junior engineers and interns, and consistent leadership in system design discussions and code reviews._
+
 #### Computer Vision Developer 
 Miovision Technologies, Kitchener, ON, Canada\
 2021 - 2024
